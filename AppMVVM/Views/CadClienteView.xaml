@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMVVM.Views.CadClienteView">
+    <StackLayout>
+
+        <Entry x:Name="txtNome"
+               Placeholder="Insira o nome"
+               FontSize="20"/>
+        <Entry x:Name="txtIdade"
+               Placeholder="Insira a idade"
+               FontSize="20"/>
+        <Entry x:Name="txtTelefone"
+               Placeholder="Insira o telefone"
+               FontSize="20"/>
+
+    </StackLayout>
+</ContentPage>

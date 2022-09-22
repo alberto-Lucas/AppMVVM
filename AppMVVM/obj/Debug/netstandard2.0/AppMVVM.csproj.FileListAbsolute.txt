@@ -1,0 +1,17 @@
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\bin\Debug\netstandard2.0\AppMVVM.deps.json
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\bin\Debug\netstandard2.0\AppMVVM.dll
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\bin\Debug\netstandard2.0\ref\AppMVVM.dll
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\bin\Debug\netstandard2.0\AppMVVM.pdb
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\AppMVVM.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\AppMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\AppMVVM.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\AppMVVM.AssemblyInfo.cs
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\AppMVVM.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\AppMVVM.dll
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\ref\AppMVVM.dll
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\AppMVVM.pdb
+C:\Users\lucas\source\repos\AppMVVM\AppMVVM\obj\Debug\netstandard2.0\Views\CadClienteView.xaml.g.cs
